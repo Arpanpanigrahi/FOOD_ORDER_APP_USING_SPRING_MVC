@@ -31,6 +31,18 @@ Served as the lead developer, responsible for the end-to-end development and imp
 **Achievements:**
 Successfully delivered a fully functional food ordering application, enhancing the user experience for both administrators and customers. Received positive feedback for the system's efficiency and user-friendly design.
 
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/PrMmMgJF/Screenshot-24.png)
+
+![App Screenshot](https://i.postimg.cc/5NzS83kK/Screenshot-25.png)
+
+![App Screenshot](https://i.postimg.cc/QtVpCkTb/Screenshot-26.png)
+
+![App Screenshot](https://i.postimg.cc/bJM1tD0j/Screenshot-27.png)
+
+
 **Code Samples:**
 [GitHub Repository](https://github.com/Arpanpanigrahi/FOOD_ORDER_APP_USING_SPRING_MVC)
 
