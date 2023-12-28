@@ -3,8 +3,6 @@
 
 A brief description of what this project does and who it's for
 
-**Project: FoodOrder - Spring MVC Web Application**
-
 **Duration:** [28/11/2023] - [14/12/2023]
 
 **Description:**
