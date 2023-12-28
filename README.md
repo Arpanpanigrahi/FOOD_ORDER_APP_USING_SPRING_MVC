@@ -47,3 +47,10 @@ Admin login:
 http://localhost:8080/Spring_MVC_School/index.jsp
 
 http://localhost:8080/Spring_MVC_School/loginAdmin
+
+**Summary**
+- Developed a Spring MVC-based food ordering web app.
+- Admin Module: Implemented secure login, user management, and product inventory features.
+- User Module: Enabled secure login, order placement, and total payment functionality.
+- Technologies: Spring MVC, Java, HTML/CSS, MySQL.
+- Achievements: Successfully delivered an efficient system, improving user experience.
